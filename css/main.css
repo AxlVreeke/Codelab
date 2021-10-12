@@ -16,3 +16,10 @@ footer{
     left: 0px;
     text-align: center;
 }
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
