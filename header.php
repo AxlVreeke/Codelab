@@ -10,15 +10,15 @@
         <div class="header-container">
         <div class="logo">
             <a href="#">
-                <img src="img/logo.png" alt="Navigation Logo">
+                <img class="responsive" src="img/logo.png" alt="Navigation Logo">
             </a>
-        <div class="header-buttons">
-        <a href="#">Home</a>
-        <a href="petitions.php">Petities</a>
-        <a href="about-us.php">Over ons</a>
-        <a href="contact.php">Contact</a>
-        </div>
-        </div>
+                <div class="header-buttons">
+                    <a href="#">Home</a>
+                    <a href="petitions.php">Petities</a>
+                    <a href="about-us.php">Over ons</a>
+                    <a href="contact.php">Contact</a>
+                </div>
+            </div>
         </div>
     </nav>
 </header>
