@@ -9,7 +9,7 @@
     <nav>
         <div class="logo">
             <a href="#">
-                <img src="ing/logo.png" alt="Navigation Logo">
+                <img src="img/logo.png" alt="Navigation Logo">
             </a>
         <div class="nav-buttons">
         <a href="#">Home</a>
