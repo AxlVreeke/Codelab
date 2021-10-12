@@ -2,8 +2,9 @@ footer{
    
 
 }
+
 body{
-    background-image: url("https://tenor.com/view/monkey-drip-monkey-with-the-drip-monket-wit-da-drip-yeah-i-got-that-drip-drip-gif-20496543");
+    background-color: purple;
     background-size: cover;
     height: 100vh;
     padding:0;
